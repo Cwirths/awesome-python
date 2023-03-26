@@ -2,6 +2,8 @@
 
 Your contributions are always welcome!
 
+### Bitte sende eine E-mail an : max-musterman@test.xy
+
 ## Guidelines
 
 * Add one link per Pull Request.
